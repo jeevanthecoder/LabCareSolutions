@@ -18,7 +18,7 @@ body {
     justify-content: space-between;
     padding: 10px;
     background-color: #d1cff3;
-    
+    overflow-x: auto;
     color: #fff;
 }
 
